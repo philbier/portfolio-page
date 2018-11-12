@@ -1,7 +1,10 @@
 
 /***************************************************************/
 /*Basics*/
-img, embed, object, video {
+img, 
+embed, 
+object, 
+video {
     width: 100%;
 }
 
@@ -9,7 +12,8 @@ img, embed, object, video {
     box-sizing: border-box;
 }
 
-nav a, button {
+nav a, 
+button {
     min-width: 48px;
     min-height: 48px;
 }
@@ -47,12 +51,16 @@ h3 {
 } 
 
 
-h1, h2 {
+h1, 
+h2 {
     /* margin: 24px 0 0 0; */
     line-height: 0;
 }
 
-h1, h2, h3, p  {
+h1, 
+h2, 
+h3, 
+p  {
     color: #2d3c49;
 }
 
